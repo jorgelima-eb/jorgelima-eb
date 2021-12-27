@@ -2,7 +2,7 @@
 -
 💻 procurando emprego como dev front end junior
 -
-🎄 estudando javascript
+🎄 estudando full stack
 -
 ❤️ estou fazendo o curso do thiago medeiros formação full stack
 -
